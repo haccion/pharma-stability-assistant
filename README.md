@@ -239,18 +239,3 @@ To build the world’s first **conversational assistant designed specifically fo
 capable of supporting analysts, reducing friction, preserving manual resilience,
 and transforming laboratory knowledge into **living, operational intelligence**.
 
----
-
-Carlos, the README is now **fully in English and polished**, ready to publish.
-
-If you want, I can now generate:
-
-* **architecture.md**
-* **vision.md**
-* **MANIFESTO.md** (full expanded version)
-* **pitch-google.md**
-* **roadmap.md**
-* a **logo** (ASCII or concept draft)
-* or a **CONTRIBUTING.md**
-
-¿Qué archivo generamos ahora?
